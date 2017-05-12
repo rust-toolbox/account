@@ -1,1 +1,5 @@
-# auth
+# account
+
+## License
+
+Public Domain
